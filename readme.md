@@ -58,9 +58,9 @@
 
 ## 📡 기술 스택
 
--   [STOMP 웹 소켓 프로토콜](../readme/websocket.md)
--   [OpenCV.js 이미지 처리](../readme/opencv.md)
--   [Teachable Machine 모션 캡쳐](../readme/teachablemachine.md)
+-   [STOMP 웹 소켓 프로토콜](./readme/websocket.md)
+-   [OpenCV.js 이미지 처리](./readme/opencv.md)
+-   [Teachable Machine 모션 캡쳐](./readme/teachablemachine.md)
 
 ## 🛠️ 개발 환경
 
@@ -109,7 +109,7 @@
 
 ## 📋 산출물
 
--   [기능정의서](../readme/result/기능정의서.md)
--   [ERD](../readme/result/erd.md)
--   [시스템 다이어그램](../readme/result/diagram.md)
--   [API 명세서](../readme/result/api.md)
+-   [기능정의서](./readme/result/기능정의서.md)
+-   [ERD](./readme/result/erd.md)
+-   [시스템 다이어그램](./readme/result/diagram.md)
+-   [API 명세서](./readme/result/api.md)
