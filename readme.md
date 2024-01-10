@@ -4,7 +4,6 @@
 
 ![gif_logo.gif](./exec/images/gif_logo.gif)
 
-[GWH UCC 클릭](https://youtube/Wdtb7Ek3Li4)
 
 # 놀면서 운동하는 가면 놀이터
 
